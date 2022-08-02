@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordFiller", "WordFiller\WordFiller.csproj", "{9A9AF3FC-8381-4718-86FA-D1A71F992321}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordFiller.Tests", "WordFiller.Tests\WordFiller.Tests.csproj", "{FB385482-26E8-4639-A3E9-EB94DDB56CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9AF3FC-8381-4718-86FA-D1A71F992321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9AF3FC-8381-4718-86FA-D1A71F992321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9AF3FC-8381-4718-86FA-D1A71F992321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9AF3FC-8381-4718-86FA-D1A71F992321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB385482-26E8-4639-A3E9-EB94DDB56CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB385482-26E8-4639-A3E9-EB94DDB56CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB385482-26E8-4639-A3E9-EB94DDB56CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB385482-26E8-4639-A3E9-EB94DDB56CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC87DC8-4D8A-4013-9779-24B74D8BC371}
+	EndGlobalSection
+EndGlobal
